@@ -1,4 +1,4 @@
-package es.um.atica;
+package es.um.atica.vuelos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
